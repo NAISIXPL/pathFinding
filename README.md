@@ -2,4 +2,9 @@ Path finding algorithm
 =======================
 I'm currently learning about path finding algorithms.
 
-This algorithm operates on grid based on cartesian plane.
+Implemented features:
+* BFS - Breadth first search
+* DFS - Depth fist search
+* MST - Minimum spanning tree
+* Greedy approach
+* Graph representation
